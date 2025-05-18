@@ -1,0 +1,7 @@
+[submodule "src/wp_map_tools"]
+    path = src/wp_map_tools
+    url = https://github.com/6-robot/wp_map_tools.git
+
+[submodule "src/wpr_simulation2"]
+    path = src/wpr_simulation2
+    url = https://github.com/6-robot/wpr_simulation2.git
